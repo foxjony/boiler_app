@@ -1,4 +1,6 @@
 # boiler_app
-Boiler Android APP Bluetooth 2.0 and Bluetooth 4.0 (kodular.io)
+Boiler Android APP Bluetooth 2.0 and 4.0
 
-Bluetooth Boiler APP source code - https://youtu.be/_GHYtu8T0wQ
+https://youtu.be/_GHYtu8T0wQ
+
+APP created - https://.kodular.io
