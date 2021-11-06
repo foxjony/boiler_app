@@ -11,5 +11,4 @@ APP created - https://kodular.io
 
 (2 - HEADER) (8,30 - Время День) (21,00 - Время Ночь) (205,0 - Температура День) (185,0 - Температура Ночь) (31,10,21 - Текущая Дата) (8,30 - Текущее Время) (1 - День недели 1-7, 1 - неделя)
 
-Forum 
 https://community.kodular.io/t/boiler-android-app-bluetooth-2-0-and-4-0-ble/152499
