@@ -1,7 +1,7 @@
 # Boiler Android APP Bluetooth 2.0 and 4.0 BLE
 https://youtu.be/_GHYtu8T0wQ
 
-APP created - https://kodular.io
+Android APP created - https://kodular.io
 
 * Protocol receive: {255,128,8,30,22,15,205,0,183,0,196,0} - 12 Bytes
 
